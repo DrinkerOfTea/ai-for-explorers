@@ -65,36 +65,46 @@ _[1 point]_
 
 ### Challenge 3
 
-The Explorers group is having a summer camp involving caving and climbing. Create a design for a scout badge to celebrate the camp.
+Which of these first 4 sentences of novels was made by a human, and which by an AI?
 
-_[up to 3 points]_
+Excerpt 1:
+> In the small, dingy cottage of the Blakemore family, nestled amidst a maze of narrow alleys, young Timothy Blakemore prepared himself for a journey unknown. The morning sun, casting feeble rays through the tattered curtains, illuminated the humble room where poverty had taken root. Amidst the creaking floorboards and threadbare blankets, Timothy's heart brimmed with a peculiar mixture of excitement and trepidation. For this day marked a turning point in his meager existence—the day he, a son of paupers, would venture into the realm of knowledge, the daunting abode of learning known as a school.
+
+Excerpt 2:
+> I visited Miss Havisham's house yesterday, and I found myself in a state of awe and bewilderment. As I stood at the threshold of that dilapidated mansion, its decaying grandeur and haunting atmosphere enveloped me. The air was thick with dust, as if time itself had settled upon the furniture and draped the faded tapestries. Through the broken windows, feeble rays of sunlight filtered in, illuminating the melancholic scene before me.
 
 ### Challenge 4
 
-It is your grandfather’s 70th birthday soon. Make him a birthday card picture featuring as many of the things he likes as possible! He loves steam trains. His favourite city is Paris. His favourite food is Cornish pasties. He adores his pet black cat. His favourite film is Star Wars. He loves art by Vincent van Gogh. 
+The Explorers group is having a summer camp involving caving and climbing. Create a design for a scout badge to celebrate the camp.
 
 _[up to 3 points]_
 
 ### Challenge 5
 
+It is your grandfather’s 70th birthday soon. Make him a birthday card picture featuring as many of the things he likes as possible! He loves steam trains. His favourite city is Paris. His favourite food is Cornish pasties. He adores his pet black cat. His favourite film is Star Wars. He loves art by Vincent van Gogh. 
+
+_[up to 3 points]_
+
+### Challenge 6
+
 Your family are opening a new fish and chip shop in Cheriton Bishop. Invent an amusing name for the business, and create its logo
 
 _[1 point for amusing name, 2 points for nice logo]_
 
-### Challenge 6 
+### Challenge 7
 
 You are putting on a short murder mystery play for GCSE Drama. 
 Compose a 30 second piece of dramatic music to introduce the production.
 
 _[up to 3 points]_
 
-### Challenge 7
+### Challenge 8
 
 The new family fish and chip shop has opened! Create a web site to attract more customers.
 
 _[up to 3 points]_
 
-### Challenge 8
+### Challenge 9
 
 Remove all the cars from this picture of Drewsteignton
 
