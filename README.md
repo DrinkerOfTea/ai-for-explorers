@@ -1,1 +1,4 @@
-# ai-for-explorers
+# Artificial Intelligence for Explorers
+
+
+
