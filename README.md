@@ -59,6 +59,8 @@ _[1 point]_
 
 You are on holiday in Egypt and you see this sign. What should you watch out for?
 
+![Mystery text](assets/mystery-text.png)
+
 _[1 point]_
 
 ### Challenge 3
@@ -95,6 +97,8 @@ _[up to 3 points]_
 ### Challenge 8
 
 Remove all the cars from this picture of Drewsteignton
+
+![Drewsteignton](assets/drewsteignton.jpg)
 
 _[up to 2 points]_
 
