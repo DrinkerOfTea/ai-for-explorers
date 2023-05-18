@@ -13,6 +13,7 @@
 - [Scribbed Diffusion](https://scribblediffusion.com/) - Turn a sketch into an image. No login needed
 - [This Person Does Not Exist](https://this-person-does-not-exist.com/en) - Generate a random face. No login needed
 - Mid Journey - Amazing AI art, ask me
+- [Stable Diffusion](https://stablediffusionweb.com/) - Image generation - not as good, but no login needed
 
 ### Translation
 
