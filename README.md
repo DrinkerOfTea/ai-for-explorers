@@ -39,9 +39,9 @@
 - [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia) - Animate old photos. Login with gmail address
 - [Cleanup.Pictures](https://cleanup.pictures/) - Magic eraser for photos. No login needed
 
-### Voice cloning / deep fake
+### Videos / voice cloning
 
-- [Fake You](https://fakeyou.com/) - AI voices say text you provide. No login needed
+- [Deepbrain AI Studios](https://aistudios.com/dashboard) - Make a video presentation from text you provide, or let the AI create the text
 
 ## Challenges
 
