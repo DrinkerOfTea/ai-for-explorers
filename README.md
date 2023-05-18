@@ -31,10 +31,6 @@
 
 - [Durable](https://durable.co/ai-website-builder) - Generate a web site in 30 seconds. No login needed
 
-### Foreign Language Translation
-
-- [Google Translate](https://translate.google.co.uk/) - Translate text, voice or images. Login with gmail address
-
 ### Image manipulation examples
 
 - [Deep Nostalgia](https://www.myheritage.com/deep-nostalgia) - Animate old photos. Login with gmail address
