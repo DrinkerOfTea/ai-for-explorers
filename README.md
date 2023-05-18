@@ -14,6 +14,10 @@
 - [This Person Does Not Exist](https://this-person-does-not-exist.com/en) - Generate a random face. No login needed
 - Mid Journey - Amazing AI art, ask me
 
+### Translation
+
+- [Google Translate](https://translate.google.co.uk/) - Translate text, or text in images or through camera. Login with gmail address
+
 ### Music creation
 
 - [Sounddraw](https://soundraw.io) - Create music for different moods. No login needed
